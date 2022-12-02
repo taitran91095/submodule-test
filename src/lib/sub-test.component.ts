@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'lib-sub-test',
   template: `
     <p>
-      sub-test works!
+      sub-test works! Hello WOrld
     </p>
   `,
   styles: [

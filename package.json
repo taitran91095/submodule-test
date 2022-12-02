@@ -1,6 +1,6 @@
 {
   "name": "@taitran91095/sub-test",
-  "version": "0.0.10",
+  "version": "0.0.19",
   "peerDependencies": {
     "@angular/common": "^15.0.0",
     "@angular/core": "^15.0.0"
@@ -11,10 +11,8 @@
   "dependencies": {
     "tslib": "^2.3.0"
   },
-  "devDependencies": {
-    "@taitran91095/shared": "^0.0.15"
-  },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
-  }
+  },
+  "gitHead": "56221fddab84ea6cd5ef2a27728d44a522df887f"
 }
