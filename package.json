@@ -1,11 +1,20 @@
 {
-  "name": "sub-test",
-  "version": "0.0.1",
+  "name": "@taitran91095/sub-test",
+  "version": "0.0.10",
   "peerDependencies": {
     "@angular/common": "^15.0.0",
     "@angular/core": "^15.0.0"
   },
+  "scripts": {
+    "build": "ng-packagr"
+  },
   "dependencies": {
     "tslib": "^2.3.0"
+  },
+  "devDependencies": {
+    "@taitran91095/shared": "^0.0.15"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
